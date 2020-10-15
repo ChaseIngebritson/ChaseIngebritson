@@ -17,11 +17,13 @@
 ![open street map](https://img.shields.io/badge/Open_Street_Map-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap)
 ![mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logoColor=white&logo=mapbox)
 ![ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logoColor=white&logo=ionic)
+![three.js](https://img.shields.io/badge/Three.js-222222?style=for-the-badge&logoColor=white)
 
 🌱 I’m currently learning
 
 ![react](https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logoColor=white&logo=react)
 ![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logoColor=white&logo=redux)
+![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logoColor=white&logo=material-ui)
 ![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logoColor=white&logo=serverless)
 ![deck.gl](https://img.shields.io/badge/Deck.gl-19202c?style=for-the-badge&logoColor=white)
 ![luma.gl](https://img.shields.io/badge/Luma.gl-1f192c?style=for-the-badge&logoColor=white)
