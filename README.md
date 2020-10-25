@@ -30,8 +30,7 @@
 
 ### 📫 You can contact me at
 
-📧 <chase.ingebritson2014@gmail.com>
-
+📧 <chase.ingebritson2014@gmail.com>  
 🐦 [@GOmonkeymanGO](https://twitter.com/GOmonkeymanGO)
 
 <!--
