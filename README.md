@@ -28,6 +28,10 @@
 ![deck.gl](https://img.shields.io/badge/Deck.gl-19202c?style=for-the-badge&logoColor=white)
 ![luma.gl](https://img.shields.io/badge/Luma.gl-1f192c?style=for-the-badge&logoColor=white)
 
+📫 You can contact me at
+
+📧 <chase.ingebritson2014@gmail.com>
+
 <!--
 **ChaseIngebritson/ChaseIngebritson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
