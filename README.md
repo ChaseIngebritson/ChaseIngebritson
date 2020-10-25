@@ -31,6 +31,7 @@
 ## 📫 You can contact me at
 
 📧 <chase.ingebritson2014@gmail.com>  
+🔗 [LinkedIn](https://www.linkedin.com/in/chase-ingebritson/)  
 🐦 [@GOmonkeymanGO](https://twitter.com/GOmonkeymanGO)
 
 <!--
