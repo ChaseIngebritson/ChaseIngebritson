@@ -14,7 +14,7 @@
 ![nodejs](https://img.shields.io/badge/Nodejs-43853d?style=for-the-badge&logoColor=white&logo=node.js)
 ![terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logoColor=white&logo=terraform)
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon)
-![open street map](https://img.shields.io/badge/Open_Street_Map-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap)
+![openstreetmap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap)
 ![mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logoColor=white&logo=mapbox)
 ![ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logoColor=white&logo=ionic)
 ![three.js](https://img.shields.io/badge/Three.js-222222?style=for-the-badge&logoColor=white)
