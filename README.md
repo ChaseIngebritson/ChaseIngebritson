@@ -1,6 +1,6 @@
-### Heya, I'm Chase! 👋
+## Heya, I'm Chase! 👋
 
-🔭 Technologies I work with
+### 🔭 Technologies I work with
 
 ![vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logoColor=white&logo=webpack)
@@ -19,7 +19,7 @@
 ![ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logoColor=white&logo=ionic)
 ![three.js](https://img.shields.io/badge/Three.js-222222?style=for-the-badge&logoColor=white)
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 
 ![react](https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logoColor=white&logo=react)
 ![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logoColor=white&logo=redux)
@@ -28,7 +28,7 @@
 ![deck.gl](https://img.shields.io/badge/Deck.gl-19202c?style=for-the-badge&logoColor=white)
 ![luma.gl](https://img.shields.io/badge/Luma.gl-1f192c?style=for-the-badge&logoColor=white)
 
-📫 You can contact me at
+### 📫 You can contact me at
 
 📧 <chase.ingebritson2014@gmail.com>
 
