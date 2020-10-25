@@ -32,6 +32,8 @@
 
 📧 <chase.ingebritson2014@gmail.com>
 
+🐦 [@GOmonkeymanGO](https://twitter.com/GOmonkeymanGO)
+
 <!--
 **ChaseIngebritson/ChaseIngebritson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
