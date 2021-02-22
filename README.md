@@ -3,11 +3,14 @@
 ## 🔭 Technologies I work with
 
 ![vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
+![react](https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logoColor=white&logo=react)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logoColor=white&logo=angular)
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logoColor=white&logo=webpack)
+![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logoColor=white&logo=redux)
+![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logoColor=white&logo=material-ui)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logoColor=white&logo=sass)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logoColor=white&logo=angular)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logoColor=white&logo=npm)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white&logo=html5)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white&logo=css3)
@@ -20,13 +23,10 @@
 ![three.js](https://img.shields.io/badge/Three.js-222222?style=for-the-badge&logoColor=white)
 
 ## 🌱 I’m currently learning
-
-![react](https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logoColor=white&logo=react)
-![redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logoColor=white&logo=redux)
-![material ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logoColor=white&logo=material-ui)
 ![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logoColor=white&logo=serverless)
 ![deck.gl](https://img.shields.io/badge/Deck.gl-19202c?style=for-the-badge&logoColor=white)
 ![luma.gl](https://img.shields.io/badge/Luma.gl-1f192c?style=for-the-badge&logoColor=white)
+![babylon.js](https://img.shields.io/badge/Babylon.js-e0684b?style=for-the-badge&logoColor=white)
 
 ## 📫 You can contact me at
 
