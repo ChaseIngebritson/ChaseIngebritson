@@ -32,7 +32,7 @@
 
 📧 <chase@inge.me>  
 🔗 [LinkedIn](https://www.linkedin.com/in/chase-ingebritson/)  
-🐦 [@GOmonkeymanGO](https://twitter.com/GOmonkeymanGO)
+🐦 [@Goslopo](https://twitter.com/Goslopo)
 
 <!--
 **ChaseIngebritson/ChaseIngebritson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
